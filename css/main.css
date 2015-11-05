@@ -1,0 +1,26 @@
+body{
+	background: url(../img/fod.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;}
+
+li{ 
+	display: inline-block;
+	list-style-type: none;}
+
+.text-center {
+	text-align: center;}
+
+.text-right {
+	text-align: right;}
+
+.barra{ 
+	height: 90px;
+	background: black;}
